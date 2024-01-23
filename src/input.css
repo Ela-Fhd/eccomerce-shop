@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.activeSubMenu {
+  @apply h-auto opacity-100 scale-y-100;
+}
+
+.activeCategory {
+  @apply opacity-100 visible scale-y-100;
+}
+
+.activeSideBar {
+  @apply left-0;
+}
+
+.activeBackdrop {
+  @apply opacity-100 visible;
+}

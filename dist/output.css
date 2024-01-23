@@ -918,6 +918,10 @@ select {
   margin-right: 1.25rem;
 }
 
+.mr-8 {
+  margin-right: 2rem;
+}
+
 .mt-1 {
   margin-top: 0.25rem;
 }
@@ -1335,6 +1339,10 @@ select {
 .border-primary {
   --tw-border-opacity: 1;
   border-color: rgb(253 61 87 / var(--tw-border-opacity));
+}
+
+.border-transparent {
+  border-color: transparent;
 }
 
 .bg-black {
@@ -1902,6 +1910,15 @@ select {
 .focus\:border-primary:focus {
   --tw-border-opacity: 1;
   border-color: rgb(253 61 87 / var(--tw-border-opacity));
+}
+
+.focus\:border-transparent:focus {
+  border-color: transparent;
+}
+
+.focus\:shadow-transparent:focus {
+  --tw-shadow-color: transparent;
+  --tw-shadow: var(--tw-shadow-colored);
 }
 
 .focus\:outline-none:focus {

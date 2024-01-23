@@ -1,12 +1,14 @@
 <h1 align="center">eccomerce-shop</h1>
 
 
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-1.png)
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-2.png)
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-3.png)
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-4.png)
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-5.png)
-![demo](https://github.com/Ela-Fhd/simple_blog/blob/main/images/demo-6.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-1.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-2.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-3.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-4.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-5.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-6.png)
+![demo](https://github.com/Ela-Fhd/eccomerce-shop/blob/main/image/demo-7.png)
+
 
 
   - &#128204;<a href="https://devtalkblog.netlify.app/">Demo</a>
